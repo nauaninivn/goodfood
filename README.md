@@ -1,1 +1,1 @@
-<a href="goodfood.asia">goodfood</a>
+<a href="http://www.goodfood.asia">goodfood</a>
